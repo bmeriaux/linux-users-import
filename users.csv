@@ -1,0 +1,4 @@
+user,password,group
+toto,pawd123,group1
+tata,"pawd123,a",group1
+titi,"pwd321,qd",group4
